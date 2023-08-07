@@ -1,4 +1,4 @@
-# Devolove-TH.com 
+# DevoloveTH.com 
 > Esta es una página web que fué creada para el proyecto final REACT de coderhouse.
 ### Tecnologias utilizadas:
 - 🌐 ReactJS: La tecnología central utilizada para construir la interfaz del sitio web de comercio electrónico.
