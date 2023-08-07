@@ -12,7 +12,6 @@ const Navbar = () => {
         <section className="navbar">
           {/* Logo */}
           <div className="logo-container">
-              {/* <MenuIcon className="icon" /> */}
               <Link to="/"><img src="https://res.cloudinary.com/dr6ivzvpc/image/upload/v1691158204/Logo_circular_floral_negro_ycghko.png" alt="Logo" /></Link>
           </div>
 
