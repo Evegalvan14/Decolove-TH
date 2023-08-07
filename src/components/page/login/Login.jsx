@@ -1,5 +1,5 @@
 import { Button, TextField } from "@mui/material"
-import "./Login.css"
+import "./login.css"
 
 const Login = ({ handleSubmit, handleChange, errors }) => {
     return (
