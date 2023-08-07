@@ -27,11 +27,11 @@ export const routes = [
     path: "/cart",
     Element: CartContainer,
   },
-   {
-        id:"checkout",
-        path: "/checkout",
-        Element: CheckoutContainer,
-    },
+  {
+    id:"checkout",
+    path: "/checkout",
+    Element: CheckoutContainer,
+  },
   {
     id: "dashboard",
     path: "/dashboard",
